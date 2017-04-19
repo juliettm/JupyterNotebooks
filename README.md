@@ -1,5 +1,9 @@
-# Jypyter notebooks
+# Jupyter notebooks
 
+### Exploratory Data Analysis:
+
+  - [Basic EDA](https://github.com/juliettm/JupyterNotebooks/blob/master/EDA.ipynb)
+  
 ### Machine Learning notebooks:
 
   - **Classification**
