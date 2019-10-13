@@ -2,14 +2,14 @@
 
 ### Exploratory Data Analysis:
 
-  - [Basic EDA](https://github.com/juliettm/JupyterNotebooks/blob/master/EDA.ipynb)
+  - [Basic EDA](https://nbviewer.jupyter.org/github/juliettm/JupyterNotebooks/blob/master/EDA.ipynb)
   
 ### Machine Learning notebooks:
 
   - **Classification**
-    - [KNN](https://github.com/juliettm/JupyterNotebooks/blob/master/KNN-Classification.ipynb)
+    - [KNN](https://nbviewer.jupyter.org/github/juliettm/JupyterNotebooks/blob/master/KNN-Classification.ipynb)
   - **Regression**
-    - [Linear regression](https://github.com/juliettm/JupyterNotebooks/blob/master/Linear%20Regression.ipynb)
+    - [Linear regression](https://nbviewer.jupyter.org/github/juliettm/JupyterNotebooks/blob/master/Linear%20Regression.ipynb)
   - **Clustering**
-    - [K-means](https://github.com/juliettm/JupyterNotebooks/blob/master/K-means-Clustering.ipynb)
+    - [K-means](https://nbviewer.jupyter.org/github/juliettm/JupyterNotebooks/blob/master/K-means-Clustering.ipynb)
     
